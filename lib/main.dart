@@ -12,7 +12,7 @@ void main() {
   runApp(const MyApp());
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatelessWidge {
   const MyApp({super.key});
 
   @override
